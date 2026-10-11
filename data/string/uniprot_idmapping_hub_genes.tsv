@@ -1,0 +1,15 @@
+From	Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+99287.STM1959	P06179	reviewed	FLIC_SALTY	Flagellin (Phase 1-I flagellin)	fliC flaF hag STM1959	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	495
+99287.STM2896	P0A1I3	reviewed	INVA_SALTY	Invasion protein InvA	invA STM2896	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	685
+99287.STM1956	P0A2E8	reviewed	FLIA_SALTY	RNA polymerase sigma factor FliA (RNA polymerase sigma factor for flagellar operon) (Sigma F) (Sigma-28)	fliA STM1956	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	239
+99287.STM2891	P40699	reviewed	SPAO_SALTY	Surface presentation of antigens protein SpaO	spaO STM2891	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	303
+99287.STM2874	P41783	reviewed	PRGH_SALTY	Protein PrgH	prgH STM2874	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	392
+99287.STM1921	P09384	reviewed	CHEA_SALTY	Chemotaxis protein CheA (EC 2.7.13.3)	cheA STM1921	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	671
+99287.STM2882	P0CL52	reviewed	SIPA_SALTY	Cell invasion protein SipA (Effector protein SipA)	sipA sspA STM2882	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	685
+99287.STM2892	P40613	reviewed	SPAN_SALTY	Surface presentation of antigens protein SpaN (Invasion protein InvJ)	spaN invJ STM2892	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	336
+99287.STM1960	P16328	reviewed	FLID_SALTY	Flagellar hook-associated protein 2 (HAP2) (Filament cap protein) (Flagellar cap protein)	fliD flaV flbC STM1960	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	467
+99287.STM2873	P41784	reviewed	SCTF1_SALTY	SPI-1 type 3 secretion system needle filament protein (T3SS-1 needle filament protein)	sctF1 prgI STM2873	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	80
+99287.STM1184	P16326	reviewed	FLGL_SALTY	Flagellar hook-associated protein 3 (HAP3) (Hook-filament junction protein)	flgL flaT flaU STM1184	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	317
+99287.STM1179	P0A1J3	reviewed	FLGG_SALTY	Flagellar basal-body rod protein FlgG (Distal rod protein)	flgG fla FVII flaL STM1179	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	260
+99287.STM2886	P69066	reviewed	SICA_SALTY	Chaperone protein SicA (Salmonella invasin chaperone)	sicA spaT STM2886	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	165
+99287.STM1958	Q56106	reviewed	FLIB_SALTY	Lysine-N-methylase (EC 2.1.1.-) (Lysine N-methyltransferase)	fliB nml STM1958	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	401

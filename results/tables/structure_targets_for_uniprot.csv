@@ -1,0 +1,15 @@
+STRING_name,your_DEG_name,locus_tag,STRING_ID,degree,stable_hub,coexpression_hub,annotation
+fliC,fliC,STM1959,99287.STM1959,26,False,False,https://smart.embl.de/smart/DDvec.cgi?smart=495:Pfam_Flagellin_N(5|143
+invA,invA,STM2896,99287.STM2896,21,False,False,https://smart.embl.de/smart/DDvec.cgi?smart=685:Pfam_FHIPEP(24|678)+
+fliA,fliA,STM1956,99287.STM1956,19,True,False,https://smart.embl.de/smart/DDvec.cgi?smart=239:Pfam_Sigma70_r2(16|89)
+spaO,spaO,STM2891,99287.STM2891,19,False,False,https://smart.embl.de/smart/DDvec.cgi?smart=303:Pfam_FliMN_C(226|297)+
+prgH,prgH,STM2874,99287.STM2874,19,True,False,https://smart.embl.de/smart/DDvec.cgi?smart=392:Pfam_PrgH(16|388)+
+cheA,cheA,STM1921,99287.STM1921,18,False,True,https://smart.embl.de/smart/DDvec.cgi?smart=671:HPT(5|102)+Pfam_CheY-b
+sipA,sipA,STM2882,99287.STM2882,18,False,False,https://smart.embl.de/smart/DDvec.cgi?smart=685:Pfam_SipA(1|682)+
+invJ,spaN,STM2892,99287.STM2892,18,True,False,https://smart.embl.de/smart/DDvec.cgi?smart=336:Pfam_SPAN(1|336)+
+fliD,fliD,STM1960,99287.STM1960,18,True,False,https://smart.embl.de/smart/DDvec.cgi?smart=467:Pfam_FliD_N(11|106)+Pf
+prgI,prgI,STM2873,99287.STM2873,18,True,False,https://smart.embl.de/smart/DDvec.cgi?smart=80:Pfam_T3SS_needle_F(9|79
+flgL,flgL,STM1184,99287.STM1184,17,False,True,https://smart.embl.de/smart/DDvec.cgi?smart=317:Pfam_Flagellin_N(3|141
+flgG,flgG,STM1179,99287.STM1179,15,False,True,https://smart.embl.de/smart/DDvec.cgi?smart=260:Pfam_Flg_bb_rod(5|35)+
+sicA,sicA,STM2886,99287.STM2886,16,False,True,https://smart.embl.de/smart/DDvec.cgi?smart=165:Pfam_TPR_3(37|70)+Pfam
+fliB,fliB,STM1958,99287.STM1958,4,False,True,http://smart.embl.de/smart/DDvec.cgi?smart=401:

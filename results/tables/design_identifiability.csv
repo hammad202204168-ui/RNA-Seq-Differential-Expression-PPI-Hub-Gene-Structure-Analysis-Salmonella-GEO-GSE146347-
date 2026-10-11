@@ -1,0 +1,9 @@
+batch_definition,model,contrast,rank,estimable,var_factor,se_inflation_vs_no_batch,effective_n_per_group
+PROXY: _2 suffix (meaning undocumented),no_batch,hfq_vs_WT_control,4/4,True,0.6666666666666666,1.0,3.0
+PROXY: _2 suffix (meaning undocumented),no_batch,hfq_vs_WT_LFS,4/4,True,0.6666666666666666,1.0,3.0
+PROXY: _2 suffix (meaning undocumented),no_batch,LFS_vs_control_WT,4/4,True,0.6666666666666666,1.0,3.0
+PROXY: _2 suffix (meaning undocumented),no_batch,LFS_vs_control_hfq,4/4,True,0.6666666666666666,1.0,3.0
+PROXY: _2 suffix (meaning undocumented),with_batch,hfq_vs_WT_control,5/5,True,1.3333333333333324,1.4142135623730945,1.500000000000001
+PROXY: _2 suffix (meaning undocumented),with_batch,hfq_vs_WT_LFS,5/5,True,2.1666666666666705,1.8027756377319963,0.9230769230769215
+PROXY: _2 suffix (meaning undocumented),with_batch,LFS_vs_control_WT,5/5,True,0.6666666666666666,1.0,3.0
+PROXY: _2 suffix (meaning undocumented),with_batch,LFS_vs_control_hfq,5/5,True,0.8333333333333338,1.1180339887498953,2.399999999999998

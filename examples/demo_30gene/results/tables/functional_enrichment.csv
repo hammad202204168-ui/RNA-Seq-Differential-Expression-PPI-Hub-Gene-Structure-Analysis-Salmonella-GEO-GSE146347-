@@ -1,0 +1,8 @@
+gene_set,set_size,n_DEG_in_set,n_DEG,background,gene_ratio,pvalue,DEGs,padj
+SPI-1 transcriptional regulators,4,4,6,30,0.6666666666666666,0.0005473453749315818,"hilA,hilC,hilD,invF",0.003831417624521073
+SPI-1-associated invasion genes,9,5,6,30,0.8333333333333334,0.004597701149425286,"hilA,hilC,hilD,invF,sipA",0.016091954022988502
+Global regulators,4,1,6,30,0.16666666666666666,0.6122605363984674,hfq,1.0
+T3SS effectors and translocon proteins,9,1,6,30,0.16666666666666666,0.9086118479221927,sipA,1.0
+SPI-2 (intracellular survival) genes,8,0,6,30,0.0,1.0,,1.0
+Two-component systems,6,0,6,30,0.0,1.0,,1.0
+DNA maintenance (gyrase and repair),3,0,6,30,0.0,1.0,,1.0

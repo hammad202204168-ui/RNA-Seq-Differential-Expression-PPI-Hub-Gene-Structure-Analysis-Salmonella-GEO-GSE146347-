@@ -1,0 +1,11 @@
+SampleID,Condition,Sequencing_Type,Instrument
+WT_Rep1,Control,Unknown,Unknown
+WT_Rep2,Control,Unknown,Unknown
+WT_Rep3,Control,Unknown,Unknown
+Mut_Rep1,Mutant,Unknown,Unknown
+Mut_Rep2,Mutant,Unknown,Unknown
+Mut_Rep3,Mutant,Unknown,Unknown
+Acid_Rep1,AcidStress,Unknown,Unknown
+Acid_Rep2,AcidStress,Unknown,Unknown
+Heat_Rep1,HeatShock,Unknown,Unknown
+Heat_Rep2,HeatShock,Unknown,Unknown

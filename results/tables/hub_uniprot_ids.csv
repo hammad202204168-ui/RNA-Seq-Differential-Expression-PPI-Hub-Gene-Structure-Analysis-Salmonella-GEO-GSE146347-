@@ -1,0 +1,15 @@
+STRING_name,your_DEG_name,locus_tag,UniProt_accession,Entry Name,protein_name,length_aa,alphafold_entry_page
+fliC,fliC,STM1959,P06179,FLIC_SALTY,Flagellin (Phase 1-I flagellin),495,https://alphafold.ebi.ac.uk/entry/P06179
+invA,invA,STM2896,P0A1I3,INVA_SALTY,Invasion protein InvA,685,https://alphafold.ebi.ac.uk/entry/P0A1I3
+fliA,fliA,STM1956,P0A2E8,FLIA_SALTY,RNA polymerase sigma factor FliA (RNA polymerase sigma factor for flagellar operon) (Sigma F) (Sigma-28),239,https://alphafold.ebi.ac.uk/entry/P0A2E8
+spaO,spaO,STM2891,P40699,SPAO_SALTY,Surface presentation of antigens protein SpaO,303,https://alphafold.ebi.ac.uk/entry/P40699
+prgH,prgH,STM2874,P41783,PRGH_SALTY,Protein PrgH,392,https://alphafold.ebi.ac.uk/entry/P41783
+cheA,cheA,STM1921,P09384,CHEA_SALTY,Chemotaxis protein CheA (EC 2.7.13.3),671,https://alphafold.ebi.ac.uk/entry/P09384
+sipA,sipA,STM2882,P0CL52,SIPA_SALTY,Cell invasion protein SipA (Effector protein SipA),685,https://alphafold.ebi.ac.uk/entry/P0CL52
+invJ,spaN,STM2892,P40613,SPAN_SALTY,Surface presentation of antigens protein SpaN (Invasion protein InvJ),336,https://alphafold.ebi.ac.uk/entry/P40613
+fliD,fliD,STM1960,P16328,FLID_SALTY,Flagellar hook-associated protein 2 (HAP2) (Filament cap protein) (Flagellar cap protein),467,https://alphafold.ebi.ac.uk/entry/P16328
+prgI,prgI,STM2873,P41784,SCTF1_SALTY,SPI-1 type 3 secretion system needle filament protein (T3SS-1 needle filament protein),80,https://alphafold.ebi.ac.uk/entry/P41784
+flgL,flgL,STM1184,P16326,FLGL_SALTY,Flagellar hook-associated protein 3 (HAP3) (Hook-filament junction protein),317,https://alphafold.ebi.ac.uk/entry/P16326
+flgG,flgG,STM1179,P0A1J3,FLGG_SALTY,Flagellar basal-body rod protein FlgG (Distal rod protein),260,https://alphafold.ebi.ac.uk/entry/P0A1J3
+sicA,sicA,STM2886,P69066,SICA_SALTY,Chaperone protein SicA (Salmonella invasin chaperone),165,https://alphafold.ebi.ac.uk/entry/P69066
+fliB,fliB,STM1958,Q56106,FLIB_SALTY,Lysine-N-methylase (EC 2.1.1.-) (Lysine N-methyltransferase),401,https://alphafold.ebi.ac.uk/entry/Q56106

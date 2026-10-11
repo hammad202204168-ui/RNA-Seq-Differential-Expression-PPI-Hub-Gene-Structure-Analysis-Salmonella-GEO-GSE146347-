@@ -1,0 +1,13 @@
+sample,genotype,culture,group
+WT2_1xg,WT,control,WT_control
+WT3_1xg,WT,control,WT_control
+WT4_1xg,WT,control,WT_control
+hfq1_1xg,delta_hfq,control,delta_hfq_control
+hfq3_1xg_2,delta_hfq,control,delta_hfq_control
+hfq4_1xg_2,delta_hfq,control,delta_hfq_control
+WT2_LS,WT,LFS,WT_LFS
+WT3_LS,WT,LFS,WT_LFS
+WT4_LS,WT,LFS,WT_LFS
+hfq1_LS_2,delta_hfq,LFS,delta_hfq_LFS
+hfq3_LS_2,delta_hfq,LFS,delta_hfq_LFS
+hfq4_LS_2,delta_hfq,LFS,delta_hfq_LFS

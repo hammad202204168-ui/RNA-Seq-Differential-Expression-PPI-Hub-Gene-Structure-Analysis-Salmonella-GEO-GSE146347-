@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the original data/publication below."
+title: "Exploratory TPM-based analysis of Salmonella Typhimurium wild type vs delta-hfq (GEO GSE146347)"
+type: software
+license: MIT
+repository-code: "https://github.com/hammad202204168-ui/RNA-Seq-Differential-Expression-PPI-Hub-Gene-Structure-Analysis-Salmonella-GEO-GSE146347-"
+version: 2.2.0
+date-released: 2026-10-11
+authors:
+  - family-names: "Anwar"
+    given-names: "Hammad"
+abstract: "Reproducible exploratory analysis of the Salmonella-only TPM table of GEO GSE146347 (wild type vs hfq deletion, control vs low-fluid-shear culture; n = 3 per group). Only TPM values were available, so results are exploratory and not DESeq2-based."
+keywords: [RNA-seq, Salmonella, Hfq, TPM, volcano plot, GSE146347]
+references:
+  - type: article
+    authors: [{family-names: "Barrila", given-names: "J"}]
+    title: "Spaceflight analogue culture enhances the host-pathogen interaction between Salmonella and a 3-D biomimetic intestinal co-culture model"
+    journal: "Frontiers in Cellular and Infection Microbiology"
+    year: 2022
+    doi: "10.3389/fcimb.2022.705647"
+  - type: dataset
+    title: "GSE146347"
+    repository: "NCBI Gene Expression Omnibus"
+    url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146347"

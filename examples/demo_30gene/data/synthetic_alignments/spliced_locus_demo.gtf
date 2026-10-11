@@ -1,0 +1,4 @@
+spliced_locus_demo	synthetic	gene	501	3500	.	+	.	gene_id "toyGene"; gene_name "toyGene";
+spliced_locus_demo	synthetic	exon	501	900	.	+	.	gene_id "toyGene"; gene_name "toyGene";
+spliced_locus_demo	synthetic	exon	1701	2000	.	+	.	gene_id "toyGene"; gene_name "toyGene";
+spliced_locus_demo	synthetic	exon	3001	3500	.	+	.	gene_id "toyGene"; gene_name "toyGene";

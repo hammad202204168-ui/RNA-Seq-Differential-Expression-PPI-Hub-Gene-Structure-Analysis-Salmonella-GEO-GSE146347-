@@ -1,0 +1,7 @@
+,value
+n_genes,30.0
+n_samples,10.0
+median_mean_count_WT,408.83333333333337
+dynamic_range_fold_(max/min_WT_mean),2.0035971223021583
+median_variance_to_mean_WT,2.644274718895793
+median_NB_dispersion_moment_WT,0.004181457142628422

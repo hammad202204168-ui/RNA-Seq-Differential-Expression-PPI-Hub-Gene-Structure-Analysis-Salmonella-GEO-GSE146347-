@@ -1,0 +1,18 @@
+{
+  "source": "STRING API",
+  "endpoint": "https://string-db.org/api/tsv/network",
+  "generated_at_utc": "2026-10-10T05:33:59.338002+00:00",
+  "species_taxon_id": "99287",
+  "species": "Salmonella enterica serovar Typhimurium LT2",
+  "requested_gene_symbols": [
+    "invF",
+    "hilA",
+    "sipA",
+    "hilC",
+    "hilD",
+    "hfq"
+  ],
+  "required_score": 400,
+  "first_shell_interactors_requested": 15,
+  "edge_count": 191
+}

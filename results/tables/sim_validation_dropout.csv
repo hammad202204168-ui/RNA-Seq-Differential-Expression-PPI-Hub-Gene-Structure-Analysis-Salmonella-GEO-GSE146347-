@@ -1,0 +1,4 @@
+seed,all_zero_cells,truly_absent,absent_recall,expressed_called_not_explained,flagged_cells_truly_below_half_of_best,expressed_called_depth_limited,upper95_coverage_expressed,n_expressed_cells
+1,109,73,0.9726027397260274,5,0.9473684210526315,31,0.9444444444444444,36
+2,114,66,1.0,21,0.8045977011494253,27,0.8333333333333334,48
+3,117,76,0.9868421052631579,12,0.9080459770114943,29,0.9512195121951219,41

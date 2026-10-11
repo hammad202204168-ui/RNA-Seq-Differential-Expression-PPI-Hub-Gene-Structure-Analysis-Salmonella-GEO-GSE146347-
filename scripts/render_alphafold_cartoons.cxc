@@ -1,0 +1,6 @@
+# ChimeraX alternative (also untested here): open the PDBs, colour by pLDDT with the built-in AlphaFold palette.
+# In ChimeraX:  open scripts/render_alphafold_cartoons.cxc      (edit the path if needed)
+open data/alphafold/*.pdb
+cartoon
+color bfactor palette alphafold
+view

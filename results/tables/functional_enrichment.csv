@@ -1,0 +1,121 @@
+direction,gene_set,set_size,n_DEG_in_set,n_DEG,background,odds_ratio,pvalue,FDR,contrast
+Up,"SPI-1 T3SS, invasion & effectors",34,19,125,4420,51.144654088050316,1.2215201397820138e-21,1.8322802096730208e-20,LFS_effect_hfq
+Up,Flagellar assembly & motility,47,17,125,4420,22.378086419753085,2.1174501026691524e-15,1.5880875770018642e-14,LFS_effect_hfq
+Up,Chemotaxis,17,8,125,4420,32.5622032288699,6.426164868407497e-09,3.2130824342037484e-08,LFS_effect_hfq
+Down,Iron / siderophore / heme,33,5,43,4420,20.43703007518797,1.3315173755152424e-05,0.00019972760632728636,LFS_effect_hfq
+Up,Iron / siderophore / heme,33,4,42,4420,15.78584392014519,0.00023611438479640513,0.003541715771946077,hfq_effect_control
+Up,Flagellar assembly & motility,47,3,25,4420,13.484504132231406,0.0021999963920987836,0.03299994588148175,LFS_effect_WT
+Up,Respiration & ATP synthase,59,5,125,4420,3.2723765432098766,0.024728798895236746,0.09273299585713779,LFS_effect_hfq
+Down,Respiration & ATP synthase,59,3,43,4420,5.787053571428571,0.01910431910553738,0.14328239329153034,LFS_effect_hfq
+Down,Prophage genes,116,4,33,4420,5.264778325123153,0.01024294357765961,0.15364415366489415,LFS_effect_WT
+Up,Respiration & ATP synthase,59,2,14,4420,12.716374269005849,0.014380890207567597,0.16482862678925714,hfq_effect_LFS
+Up,PTS sugar uptake,7,1,14,4420,56.41025641025641,0.021977150238567618,0.16482862678925714,hfq_effect_LFS
+Up,Chemotaxis,17,1,14,4420,21.10576923076923,0.052595960024300434,0.2629798001215022,hfq_effect_LFS
+Up,Respiration & ATP synthase,59,2,25,4420,6.617848970251716,0.043177603975420024,0.3238320298156502,LFS_effect_WT
+Up,"SPI-1 T3SS, invasion & effectors",34,1,14,4420,10.193473193473194,0.10261344796150323,0.3848004298556371,hfq_effect_LFS
+Down,Chemotaxis,17,2,110,4420,5.302469135802469,0.06546904134930877,0.49101781011981577,hfq_effect_control
+Down,Fimbriae & pili,56,4,110,4420,3.0899854862119014,0.04960652680552212,0.49101781011981577,hfq_effect_control
+Up,Fimbriae & pili,56,1,14,4420,6.085314685314685,0.16370472624447072,0.4911141787334121,hfq_effect_LFS
+Down,Fimbriae & pili,56,2,43,4420,3.9051490514905147,0.10242515952848201,0.5121257976424101,LFS_effect_hfq
+Down,Flagellar assembly & motility,47,3,110,4420,2.7183517417162277,0.11078386419572,0.5539193209786001,hfq_effect_control
+Down,ABC transporters,147,3,43,4420,2.2046875,0.17068099710641688,0.6400537391490633,LFS_effect_hfq
+Down,ABC transporters,147,3,33,4420,2.946527777777778,0.09526745680451741,0.7145059260338806,LFS_effect_WT
+Up,Respiration & ATP synthase,59,2,42,4420,3.7903508771929824,0.10746360060449463,0.8059770045337097,hfq_effect_control
+Up,Transcriptional regulators,229,8,125,4420,1.260471052326256,0.3204221410365339,0.9612664231096015,LFS_effect_hfq
+Down,SPI-2 T3SS & effectors,41,2,110,4420,2.028015194681861,0.2717968712981952,0.9800346701171838,hfq_effect_control
+Down,Prophage genes,116,4,110,4420,1.4144204851752022,0.3266782233723946,0.9800346701171838,hfq_effect_control
+Up,Toxin-antitoxin systems,13,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Two-component systems,53,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Transcriptional regulators,229,1,42,4420,0.4439452289259735,0.8940858620843775,1.0,hfq_effect_control
+Down,"SPI-1 T3SS, invasion & effectors",34,0,110,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Prophage genes,116,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,"SPI-1 T3SS, invasion & effectors",34,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Fimbriae & pili,56,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,SPI-2 T3SS & effectors,41,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Toxin-antitoxin systems,13,0,110,4420,0.0,1.0,1.0,hfq_effect_control
+Down,Two-component systems,53,0,110,4420,0.0,1.0,1.0,hfq_effect_control
+Down,Transcriptional regulators,229,2,110,4420,0.33308859520313266,0.9808869691654172,1.0,hfq_effect_control
+Down,PTS sugar uptake,7,0,110,4420,0.0,1.0,1.0,hfq_effect_control
+Up,ABC transporters,147,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Prophage genes,116,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Ribosomal proteins,64,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Transposases / IS elements,12,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Iron / siderophore / heme,33,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Transcriptional regulators,229,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Two-component systems,53,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Toxin-antitoxin systems,13,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,"SPI-1 T3SS, invasion & effectors",34,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,SPI-2 T3SS & effectors,41,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Flagellar assembly & motility,47,0,14,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Flagellar assembly & motility,47,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Chemotaxis,17,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,ABC transporters,147,1,20,4420,1.5335255948089401,0.49234543321391805,1.0,hfq_effect_LFS
+Down,Ribosomal proteins,64,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,PTS sugar uptake,7,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Transposases / IS elements,12,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Down,ABC transporters,147,4,110,4420,1.099617363768307,0.501152846153151,1.0,hfq_effect_control
+Down,Ribosomal proteins,64,1,110,4420,0.618465123052279,0.8030232683108197,1.0,hfq_effect_control
+Down,Transposases / IS elements,12,0,110,4420,0.0,1.0,1.0,hfq_effect_control
+Down,Respiration & ATP synthase,59,2,110,4420,1.3817413905133202,0.434532674564536,1.0,hfq_effect_control
+Down,Iron / siderophore / heme,33,0,110,4420,0.0,1.0,1.0,hfq_effect_control
+Up,SPI-2 T3SS & effectors,41,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Ribosomal proteins,64,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,ABC transporters,147,2,42,4420,1.4596551724137932,0.4099955269692353,1.0,hfq_effect_control
+Up,Flagellar assembly & motility,47,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Chemotaxis,17,0,42,4420,0.0,1.0,1.0,hfq_effect_control
+Up,Chemotaxis,17,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,SPI-2 T3SS & effectors,41,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,"SPI-1 T3SS, invasion & effectors",34,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Toxin-antitoxin systems,13,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Transcriptional regulators,229,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Two-component systems,53,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Iron / siderophore / heme,33,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,PTS sugar uptake,7,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Fimbriae & pili,56,1,20,4420,4.157894736842105,0.22552183645799612,1.0,hfq_effect_LFS
+Down,Respiration & ATP synthase,59,1,20,4420,3.94010889292196,0.23612371689640507,1.0,hfq_effect_LFS
+Down,Transposases / IS elements,12,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Down,Prophage genes,116,0,20,4420,0.0,1.0,1.0,hfq_effect_LFS
+Up,Transcriptional regulators,229,1,25,4420,0.7615131578947368,0.7365076586086986,1.0,LFS_effect_WT
+Up,Two-component systems,53,1,25,4420,3.479967948717949,0.2609667441111732,1.0,LFS_effect_WT
+Up,Fimbriae & pili,56,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,Ribosomal proteins,64,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Ribosomal proteins,64,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Chemotaxis,17,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Flagellar assembly & motility,47,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,SPI-2 T3SS & effectors,41,1,33,4420,3.39609375,0.26557042697591643,1.0,LFS_effect_WT
+Down,"SPI-1 T3SS, invasion & effectors",34,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Respiration & ATP synthase,59,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Fimbriae & pili,56,1,33,4420,2.4613636363636364,0.34447001722526216,1.0,LFS_effect_WT
+Down,Transposases / IS elements,12,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Transcriptional regulators,229,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,Iron / siderophore / heme,33,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,Toxin-antitoxin systems,13,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,ABC transporters,147,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,Prophage genes,116,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,Transposases / IS elements,12,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,PTS sugar uptake,7,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,Iron / siderophore / heme,33,0,25,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,ABC transporters,147,1,125,4420,0.22917587273530712,0.9862874021956113,1.0,LFS_effect_hfq
+Up,Ribosomal proteins,64,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Toxin-antitoxin systems,13,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,SPI-2 T3SS & effectors,41,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Two-component systems,53,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Down,PTS sugar uptake,7,0,33,4420,0.0,1.0,1.0,LFS_effect_WT
+Up,Transposases / IS elements,12,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Up,PTS sugar uptake,7,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Up,Two-component systems,53,2,125,4420,1.3531005898294277,0.44515493529165967,1.0,LFS_effect_hfq
+Up,Iron / siderophore / heme,33,1,125,4420,1.0743447580645162,0.6133373452936396,1.0,LFS_effect_hfq
+Up,Toxin-antitoxin systems,13,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,"SPI-1 T3SS, invasion & effectors",34,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Flagellar assembly & motility,47,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,SPI-2 T3SS & effectors,41,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Up,Prophage genes,116,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Up,Fimbriae & pili,56,0,125,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Chemotaxis,17,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Ribosomal proteins,64,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Transposases / IS elements,12,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Prophage genes,116,1,43,4420,0.8824016563146998,0.6830850299256621,1.0,LFS_effect_hfq
+Down,PTS sugar uptake,7,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Transcriptional regulators,229,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Two-component systems,53,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq
+Down,Toxin-antitoxin systems,13,0,43,4420,0.0,1.0,1.0,LFS_effect_hfq

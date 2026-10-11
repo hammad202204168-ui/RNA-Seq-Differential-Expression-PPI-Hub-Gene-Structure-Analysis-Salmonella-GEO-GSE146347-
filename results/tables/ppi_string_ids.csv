@@ -1,0 +1,142 @@
+input_gene,string_node,match,GeneID,log2FC,FDR,status,description
+STM3520,,not_found_in_STRING,gene3546,8.428572155416054,1.3091303083579569e-06,Up,pseudo
+cheW,cheW,exact,gene1935,5.457406912521045,0.0016346737558373,Up,chemotaxis protein CheW
+fepA,fepA,exact,gene588,-3.852514228708068,0.0018505975559255,Down,outer membrane receptor protein
+fliA,fliA,exact,gene1969,5.0591141357324965,0.0018505975559255,Up,RNA polymerase sigma factor FliA
+STM1089,STM1089,exact,gene1098,6.693653707138623,0.0018505975559255,Up,Pathogenicity island encoded protein: SPI5
+flgG,flgG,exact,gene1189,6.046508054650016,0.0018505975559255,Up,flagellar basal-body rod protein FlgG
+spaN,invJ,alias,gene2912,4.734984081530942,0.0018505975559255,Up,
+fabB,fabB,exact,gene2395,2.8634345884096577,0.0031714819928745,Up,beta-ketoacyl-[acyl-carrier-protein] synthase I
+metH,metH,exact,gene4218,1.8424535431958773,0.0071742795298086,Up,B12-dependent homocysteine-N5-methyltetrahydrofolate transmethylase
+sopB,sopB,exact,gene1100,5.253308739094576,0.0071742795298086,Up,inositol phosphatase
+putA,putA,exact,gene1132,2.3132032209821487,0.0071742795298086,Up,trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase
+STM3792,STM3792,exact,gene3818,3.2574262765550355,0.0071742795298086,Up,L-fucose:H+ symporter permease
+cirA,cirA,exact,gene2214,-2.478346929896592,0.0074776976669095,Down,catecholate siderophore receptor CirA
+STM05625,,not_found_in_STRING,gene2900,2.0806550324447874,0.0074776976669095,Up,
+ydaA,ydaA,exact,gene1672,1.464021845027812,0.0074776976669095,Up,universal stress protein UspE
+ttrC,ttrC,exact,gene1397,3.435175765994245,0.0074776976669095,Up,tetrathionate reductase subunit C
+cheA,cheA,exact,gene1936,4.436601222167302,0.0074776976669095,Up,sensory histitine protein kinase
+invA,invA,exact,gene2916,3.167353789793005,0.0098418561203562,Up,EscV/YscV/HrcV family type III secretion system export apparatus protein
+invG,invG,exact,gene2918,5.462606249040712,0.0098418561203562,Up,EscC/YscC/HrcC family type III secretion system outer membrane ring protein
+sicA,sicA,exact,gene2906,5.9111050186966825,0.0098418561203562,Up,CesD/SycD/LcrH family type III secretion system chaperone
+flgL,flgL,exact,gene1194,5.224830933883761,0.0098418561203562,Up,flagellar hook-filament junction protein FlgL
+STM3026,STM3026,exact,gene3049,-1.5080333290688812,0.0098418561203562,Down,hypothetical protein
+flgE,flgE,exact,gene1187,6.311176958622228,0.0098418561203562,Up,flagellar hook protein FlgE
+flgD,flgD,exact,gene1186,5.886073849532208,0.0098418561203562,Up,flagellar basal body rod modification protein
+STM3216,STM3216,exact,gene3241,4.619478070140624,0.0098418561203562,Up,putative methyl-accepting chemotaxis protein
+STM3138,STM3138,exact,gene3162,4.210203848073078,0.0098418561203562,Up,chemotaxis protein
+STM3362,STM3362,exact,gene3387,-2.7693528870264013,0.0102932587426676,Down,hypothetical protein
+manA,manA,exact,gene1480,1.12220216300529,0.0102932587426676,Up,mannose-6-phosphate isomerase
+acrE,acrE,exact,gene3416,-2.358591974004679,0.0102932587426676,Down,multidrug exporter AcrE
+accA,accA,exact,gene233,1.56369140925462,0.0102932587426676,Up,acetyl-CoA carboxylase carboxyltransferase subunit alpha
+STM0360,STM0360,exact,gene364,-2.3995183521858703,0.0107592371513499,Down,cytochrome ubiquinol oxidase subunit I
+flgI,flgI,exact,gene1191,3.8645627916497047,0.0107592371513499,Up,flagellar biosynthesis protein FlgA
+serB,serB,exact,gene4608,3.194470551640357,0.011368464566668,Up,phosphoserine phosphatase SerB
+fliB,fliB,exact,gene1971,4.602828530008626,0.011368464566668,Up,lysine-N-methylase
+STM1253,STM1253,exact,gene1266,-1.7131671254273204,0.011368464566668,Down,cytochrome b
+fliZ,fliZ,exact,gene1968,6.193952698230687,0.0114600281876428,Up,flagellar regulatory protein FliZ
+STM3604,STM3604,exact,gene3630,2.501314005897275,0.0114600281876428,Up,hypothetical protein
+cysC,cysC,exact,gene2953,3.628749523869728,0.0140587553808302,Up,adenylyl-sulfate kinase
+yfgJ,yfgJ,exact,gene2534,-3.9226345801949223,0.0140587553808302,Down,hypothetical protein
+flgM,flgM,exact,gene1182,3.519060308204339,0.0140587553808302,Up,anti-sigma-28 factor FlgM
+sipD,sipD,exact,gene2903,4.657847052514064,0.0144807004904684,Up,cell invasion protein SipD
+PSLT050.1N,,not_found_in_STRING,gene4681,-4.463335237326462,0.0144807004904684,Down,
+nrfA,nrfA,exact,gene4308,1.969874037908304,0.0155034750729545,Up,ammonia-forming cytochrome c nitrite reductase subunit c552
+fliC,fliC,exact,gene1972,4.051116676862691,0.0157018439598075,Up,flagellin
+dmsA,dmsA,exact,gene970,3.079454509897509,0.0157018439598075,Up,dimethylsulfoxide reductase subunit A
+sipB,sipB,exact,gene2905,6.174242681277034,0.0157018439598075,Up,pathogenicity island 1 effector protein SipB
+fhuE,fhuE,exact,gene1215,-4.356793128900888,0.0157018439598075,Down,ferric-rhodotorulic acid/ferric-coprogen receptor FhuE
+fliK,fliK,exact,gene1987,3.689119658936267,0.0157018439598075,Up,flagellar hook-length control protein FliK
+STM1330,STM1330,exact,gene1344,-1.690418138398083,0.0157018439598075,Down,endonuclease
+tsr,tsr,exact,gene4563,2.970723051154286,0.0157018439598075,Up,methyl-accepting chemotaxis protein II
+glpA,glpA,exact,gene2300,1.9774986774566836,0.0161018213229168,Up,sn-glycerol-3-phosphate dehydrogenase subunit A
+fliL,fliL,exact,gene1988,4.834449910869971,0.016627532585653,Up,flagellar basal body-associated protein FliL
+sipC,sipC,exact,gene2904,5.488399227518602,0.016627532585653,Up,pathogenicity island 1 effector protein SipC
+STM2585,STM2585,exact,gene2601,-3.717346683485745,0.016627532585653,Down,Gifsy-1 prophage protein
+hemY,hemY,exact,gene3964,1.3862250530990965,0.0170266878369356,Up,protein for a late step of protoheme IX synthesis
+fliT,fliT,exact,gene1975,3.1684207294652027,0.0176274512947626,Up,flagellar biosynthesis protein FliT
+prgH,prgH,exact,gene2894,4.610175260016841,0.0182631769783011,Up,type III secretion system protein PrgH
+sipA,sipA,exact,gene2902,4.938383270833535,0.0193345801784222,Up,pathogenicity island 1 effector protein SipA
+lpxK,lpxK,exact,gene990,2.733906770375384,0.020578236329562,Up,tetraacyldisaccharide 4'-kinase
+slrB,slrB,exact,gene2854,3.607321452701878,0.0210693034585613,Up,PTS glucitol/sorbitol transporter subunit IIA
+hutH,hutH,exact,gene792,2.9069238124606342,0.0215287323154525,Up,histidine ammonia-lyase
+carB,carB,exact,gene67,2.706877530149808,0.0215287323154525,Up,carbamoyl phosphate synthase large subunit
+yjgB,yjgB,exact,gene4515,-2.975459759871325,0.0215287323154525,Down,putative alcohol dehydrogenase
+fimD,fimD,exact,gene550,1.5792569331654411,0.0215287323154525,Up,outer membrane usher protein
+cysI,cysI,exact,gene2967,3.649507239899312,0.0215287323154525,Up,sulfite reductase subunit beta
+ribB,ribB,exact,gene3220,1.0327686947028711,0.0215287323154525,Up,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+htpG,htpG,exact,gene491,1.7344917583005914,0.0215287323154525,Up,molecular chaperone HtpG
+STM4261,STM4261,exact,gene4292,2.878778840198883,0.0215287323154525,Up,hypothetical protein
+trg,trg,exact,gene1638,3.2747672764629505,0.0215287323154525,Up,methyl-accepting chemotaxis protein
+cysP,cysP,exact,gene2462,3.3487665464936964,0.0215287323154525,Up,thiosulfate transporter subunit
+fliD,fliD,exact,gene1973,4.423621658457491,0.0215287323154525,Up,flagellar filament-capping protein FliD
+yejE,yejE,exact,gene2234,-3.375943887621446,0.0215287323154525,Down,microcin ABC transporter permease
+proS,proS,exact,gene243,1.1697984493206843,0.0221898237301798,Up,proline--tRNA ligase
+sdaC,sdaC,exact,gene2991,2.218963794394924,0.0221898237301798,Up,HAAAP family serine/threonine permease
+flgC,flgC,exact,gene1185,6.210283987949973,0.0229963312968375,Up,flagellar basal body rod protein FlgC
+yjfN,yjfN,exact,gene4410,-1.682586653220163,0.0229963312968375,Down,putative inner membrane protein
+fepC,fepC,exact,gene593,-4.39511133072599,0.0229963312968375,Down,iron-enterobactin transporter ATP-binding protein
+potC,potC,exact,gene1234,-1.34198473453311,0.0229963312968375,Down,spermidine/putrescine ABC transporter permease PotC
+prgI,prgI,exact,gene2893,7.594130656537715,0.0230046591505652,Up,EscF/YscF/HrpA family type III secretion system needle major subunit
+cybB,cybB,exact,gene1650,3.655927861386617,0.0239194825145703,Up,cytochrome B
+fadE,yafH,alias,gene313,-2.583567549350687,0.0239194825145703,Down,
+nemA,nemA,exact,gene1449,1.990525529155339,0.0239194825145703,Up,N-ethylmaleimide reductase
+ybiB,ybiB,exact,gene822,2.2704651293041,0.0239194825145703,Up,DNA-binding protein YbiB
+phoN,phoN,exact,gene4350,-2.832678081599432,0.0239194825145703,Down,phosphatase PAP2 family protein
+yhgG,yhgG,exact,gene3533,-6.245062935421401,0.0239194825145703,Down,ferrous iron transporter C
+cysH,cysH,exact,gene2966,5.363753028885417,0.0239194825145703,Up,phosphoadenosine phosphosulfate reductase
+sbp,sbp,exact,gene4093,4.94040755665733,0.0240449124439542,Up,sulfate transporter subunit
+cydB,cydB,exact,gene742,1.6653877162682464,0.0240449124439542,Up,cytochrome d ubiquinol oxidase subunit II
+mukF,mukF,exact,gene997,1.4979192578033826,0.0244023413626516,Up,condensin subunit MukF
+sdhB,sdhB,exact,gene736,2.016773956490668,0.0244023413626516,Up,"succinate dehydrogenase, Fe-S protein"
+STM0561,STM0561,exact,gene565,4.016425781141105,0.0268681825899596,Up,ATP-binding protein
+narQ,narQ,exact,gene2498,1.8120652420435728,0.0268681825899596,Up,two-component system sensor histidine kinase NarQ
+hisI,hisI,exact,gene2092,2.7561697806376944,0.0268681825899596,Up,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase
+anmK,ydhH,alias,gene1459,1.7995445942917865,0.0273527300734957,Up,
+STM4315,STM4315,exact,gene4346,4.1743399540205575,0.0274104445062462,Up,AraC family transcriptional regulator
+STM4308,STM4308,exact,gene4339,3.032013529654749,0.0274104445062462,Up,putative component of anaerobic dehydrogenases
+STM4503,STM4503,exact,gene4532,2.215342779291557,0.0296798323908871,Up,putative inner membrane protein
+fhuA,fhuA,exact,gene192,-2.429215940906099,0.0297765980904089,Down,ferrichrome porin FhuA
+glpB,glpB,exact,gene2301,1.9745691555630644,0.0305277546996549,Up,anaerobic glycerol-3-phosphate dehydrogenase subunit B
+hilD,hilD,exact,gene2895,2.81628522391158,0.0305277546996549,Up,AraC family transcriptional regulator
+yeaD,yeaD,exact,gene1303,2.5853496189965006,0.0305277546996549,Up,D-hexose-6-phosphate mutarotase
+STM1498,STM1498,exact,gene1511,2.78731606083048,0.0305277546996549,Up,dimethyl sulfoxide reductase subunit A
+groES,mopB,alias,gene4361,1.4434148467174168,0.0319924147595527,Up,
+STM3533,STM3533,exact,gene3560,1.7873722554817588,0.0330299537197176,Up,IclR family transcriptional regulator
+spaO,spaO,exact,gene2911,4.89057046919103,0.0330299537197176,Up,type III secretion system protein SpaO
+yqgB,yqgB,exact,gene3111,8.452995725563992,0.0331957494659358,Up,virulence-promoting factor
+STM3793,rbsK-3,alias,gene3819,5.238506705707879,0.0345781892033462,Up,ribokinase
+STM0291,STM0291,exact,gene293,-2.54451666459376,0.035372546307484,Down,putative RHS-family protein
+trbH,,not_found_in_STRING,gene4737,-1.783476174855446,0.0375133031993979,Down,conjugative transfer
+STM3785,STM3785,exact,gene3811,2.007618124537081,0.0382336832022423,Up,hypothetical protein
+cheM,cheM,exact,gene1934,2.585312003217396,0.0387613891272209,Up,methyl-accepting chemotaxis protein II
+STM1254,STM1254,exact,gene1267,-1.5827411764513872,0.0392047136846179,Down,hypothetical protein
+pgm,pgm,exact,gene699,1.9774032288829853,0.039681320081625,Up,"phosphoglucomutase, alpha-D-glucose phosphate-specific"
+entE,entE,exact,gene599,-2.2761892177816216,0.0403198277542599,Down,"2,3-dihydroxybenzoate-AMP ligase"
+STM0849,yliB,alias,gene848,1.460985302378956,0.0412020939436378,Up,
+STM1267,STM1267,exact,gene1280,-1.872987938394843,0.0412020939436378,Down,histidine kinase
+flgN,flgN,exact,gene1181,2.400274961606058,0.0412020939436378,Up,flagellar biosynthesis protein FlgN
+STM1532,STM1532,exact,gene1543,4.940923674339238,0.0412020939436378,Up,ATP/GTP-binding protein
+yejH,yejH,exact,gene2239,1.308817299241379,0.0419405338250882,Up,putative ATP-dependent helicase
+fadB,fadB,exact,gene4012,-2.662233110542184,0.0419405338250882,Down,3-hydroxyacyl-coA dehydrogenase
+sopE2,sopE2,exact,gene1867,3.5536676905563107,0.0419405338250882,Up,type III secretion protein SopE2
+cysK,cysK,exact,gene2448,1.566218244896489,0.0419405338250882,Up,cysteine synthase A
+hilA,hilA,exact,gene2896,4.312371431738909,0.0419405338250882,Up,transcriptional regulator
+orgA,orgA,exact,gene2890,4.5152826155375925,0.0419405338250882,Up,invasion protein OrgB
+invE,invE,exact,gene2917,3.5572615250209,0.0423451614841273,Up,SepL/TyeA/HrpJ family type III secretion system gatekeeper
+pefI,,not_found_in_STRING,gene4643,-5.578001531155077,0.0423451614841273,Down,plasmid-encoded fimbriae
+nrdF,nrdF,exact,gene2828,-3.14239564891167,0.0423451614841273,Down,class 1b ribonucleoside-diphosphate reductase subunit beta
+yebK,yebK,exact,gene1902,2.710318442634472,0.0423451614841273,Up,transcriptional regulator HexR
+aldB,aldB,exact,gene3707,-2.722551447524104,0.0423917819863925,Down,aldehyde dehydrogenase
+STM1941,STM1941,exact,gene1955,-4.120137147512512,0.0444348484788607,Down,hypothetical protein
+invI,invI,exact,gene2913,7.461577965762909,0.0444348484788607,Up,type III secretion system protein SpaM
+argG,argG,exact,gene3315,2.183461443874001,0.0445865186803658,Up,argininosuccinate synthetase
+sdhC,sdhC,exact,gene733,2.470599436601251,0.0445865186803658,Up,"succinate dehydrogenase, cytochrome b556"
+PSLT020,,not_found_in_STRING,gene4650,-4.415324267012517,0.0445865186803658,Down,hypothetical protein
+STM0084,STM0084,exact,gene84,-3.9945500318194895,0.0451957328497842,Down,phosphatase
+yejF,yejF,exact,gene2235,-1.8967792402942223,0.0451957328497842,Down,microcin C ABC transporter ATP-binding protein YejF
+aidB,aidB,exact,gene4409,-1.93422258589149,0.0459171545530897,Down,isovaleryl-CoA dehydrogenase
+sucB,sucB,exact,gene738,2.054910956237362,0.0459171545530897,Up,dihydrolipoamide succinyltransferase
+vacB,vacB,exact,gene4400,1.5695534110145362,0.0469571238779649,Up,ribonuclease R
+STM4575,STM4575,exact,gene4605,-2.0249547635824667,0.0480968896934558,Down,hypothetical protein
+ubiH,ubiH,exact,gene3081,2.574452932315571,0.0496997915076426,Up,2-octaprenyl-6-methoxyphenyl hydroxylase

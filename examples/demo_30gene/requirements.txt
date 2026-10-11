@@ -1,0 +1,10 @@
+numpy>=2.0,<3
+pandas>=2.2,<4
+scipy>=1.12,<2
+scikit-learn>=1.4,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+networkx>=3.2,<4
+adjustText>=1.1,<2
+pydeseq2>=0.5,<0.6
+pysam>=0.22,<1

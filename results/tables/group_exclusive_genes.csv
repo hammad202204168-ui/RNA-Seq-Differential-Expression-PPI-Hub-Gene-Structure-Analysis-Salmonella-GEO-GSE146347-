@@ -1,0 +1,10 @@
+GeneID,label,replicon,description
+gene1253,STM1241.1N,NC_003197.1,
+gene1419,ssaG,NC_003197.1,secretion system apparatus
+gene2602,STM2585A,NC_003197.1,Gifsy-1 prophage protein
+gene2603,STM2586,NC_003197.1,Gifsy-1 prophage protein
+gene3506,yhfL,NC_003197.1,DUF4223 domain-containing protein
+gene4270,STM4239,NC_003197.1,putative cytoplasmic protein
+gene4538,STM4508.1N,NC_003197.1,
+gene4551,yjiS,NC_003197.1,DUF1127 domain-containing protein
+gene4707,finP,NC_003277.1,putative transglycosylase

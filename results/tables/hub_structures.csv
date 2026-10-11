@@ -1,0 +1,15 @@
+gene,uniprot,uniprot_reviewed,protein,af_model,file,status,n_residues,mean_pLDDT,pct_residues_below_70,pct_residues_above_90
+fliC,P06179,True,Flagellin (Phase 1-I flagellin),AF-P06179-F1-model_v6.pdb,data/alphafold/AF-P06179-F1-model_v6.pdb,ok,495,93.38377777777778,2.8282828282828283,84.64646464646465
+invA,P0A1I3,True,Invasion protein InvA,AF-P0A1I3-F1-model_v6.pdb,data/alphafold/AF-P0A1I3-F1-model_v6.pdb,ok,685,87.86005839416059,7.445255474452554,62.91970802919708
+fliA,P0A2E8,True,RNA polymerase sigma factor FliA (RNA polymerase sigma factor for flagellar operon) (Sigma F) (Sigma-28),AF-P0A2E8-F1-model_v6.pdb,data/alphafold/AF-P0A2E8-F1-model_v6.pdb,ok,239,78.90338912133892,26.359832635983267,25.523012552301257
+spaO,P40699,True,Surface presentation of antigens protein SpaO,AF-P40699-F1-model_v6.pdb,data/alphafold/AF-P40699-F1-model_v6.pdb,ok,303,82.9242904290429,14.521452145214523,37.95379537953795
+prgH,P41783,True,Protein PrgH,AF-P41783-F1-model_v6.pdb,data/alphafold/AF-P41783-F1-model_v6.pdb,ok,392,76.35839285714286,32.6530612244898,32.142857142857146
+cheA,P09384,True,Chemotaxis protein CheA (EC 2.7.13.3),AF-P09384-F1-model_v6.pdb,data/alphafold/AF-P09384-F1-model_v6.pdb,ok,671,79.80439642324889,16.691505216095383,37.257824143070046
+sipA,P0CL52,True,Cell invasion protein SipA (Effector protein SipA),AF-P0CL52-F1-model_v6.pdb,data/alphafold/AF-P0CL52-F1-model_v6.pdb,ok,685,62.04858394160584,49.34306569343065,18.83211678832117
+invJ,P40613,True,Surface presentation of antigens protein SpaN (Invasion protein InvJ),AF-P40613-F1-model_v6.pdb,data/alphafold/AF-P40613-F1-model_v6.pdb,ok,336,44.8889880952381,90.47619047619048,0.0
+fliD,P16328,True,Flagellar hook-associated protein 2 (HAP2) (Filament cap protein) (Flagellar cap protein),AF-P16328-F1-model_v6.pdb,data/alphafold/AF-P16328-F1-model_v6.pdb,ok,467,94.436573875803,2.7837259100642395,88.22269807280514
+prgI,P41784,True,SPI-1 type 3 secretion system needle filament protein (T3SS-1 needle filament protein),AF-P41784-F1-model_v6.pdb,data/alphafold/AF-P41784-F1-model_v6.pdb,ok,80,88.626625,8.75,66.25
+flgG,P0A1J3,True,Flagellar basal-body rod protein FlgG (Distal rod protein),AF-P0A1J3-F1-model_v6.pdb,data/alphafold/AF-P0A1J3-F1-model_v6.pdb,ok,260,86.53496153846154,8.461538461538462,46.53846153846154
+sicA,P69066,True,Chaperone protein SicA (Salmonella invasin chaperone),AF-P69066-F1-model_v6.pdb,data/alphafold/AF-P69066-F1-model_v6.pdb,ok,165,93.23169696969697,7.2727272727272725,84.24242424242424
+flgL,P16326,True,Flagellar hook-associated protein 3 (HAP3) (Hook-filament junction protein),AF-P16326-F1-model_v6.pdb,data/alphafold/AF-P16326-F1-model_v6.pdb,ok,317,93.84044164037854,3.4700315457413247,88.32807570977917
+fliB,Q56106,True,Lysine-N-methylase (EC 2.1.1.-) (Lysine N-methyltransferase),AF-Q56106-F1-model_v6.pdb,data/alphafold/AF-Q56106-F1-model_v6.pdb,ok,401,92.45658354114713,2.2443890274314215,80.0498753117207

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+# large intermediate files from the (not yet run) count rebuild
+data/rebuild/
+*.fastq
+*.fastq.gz
+*.sra

@@ -1,0 +1,89 @@
+gene,degree,weighted_degree,betweenness,mean_rank,hub,input_gene,log2FC,FDR,status,description,rank_all_channels,rank_no_textmining,rank_no_textmining_no_database,stable_hub,coexpression_hub,structure_target
+fliC,26,23.98,0.06926862773451725,1.0,True,fliC,4.051116676862691,0.0157018439598075,Up,flagellin,1,19.0,19.0,False,False,True
+invA,21,19.063,0.02414010003953407,2.3333333333333335,True,invA,3.167353789793005,0.0098418561203562,Up,EscV/YscV/HrcV family type III secretion system export apparatus protein,2,13.0,12.0,False,False,True
+fliA,19,18.167,0.006951805327834227,5.0,True,fliA,5.0591141357324965,0.0018505975559255,Up,RNA polymerase sigma factor FliA,3,2.0,2.0,True,False,True
+spaO,19,16.311,0.02894944402859727,5.0,True,spaO,4.89057046919103,0.0330299537197176,Up,type III secretion system protein SpaO,4,23.0,23.0,False,False,True
+prgH,19,18.027,0.004721859475194832,6.0,True,prgH,4.610175260016841,0.0182631769783011,Up,type III secretion system protein PrgH,5,1.0,1.0,True,False,True
+cheA,18,16.124,0.019732271461821823,7.333333333333333,True,cheA,4.436601222167302,0.0074776976669095,Up,sensory histitine protein kinase,6,12.0,13.0,False,True,True
+sipA,18,16.85,0.00585769734376747,8.0,True,sipA,4.938383270833535,0.0193345801784222,Up,pathogenicity island 1 effector protein SipA,7,16.0,16.0,False,False,True
+invJ,18,16.904,0.004042858905209668,9.0,True,spaN,4.734984081530942,0.0018505975559255,Up,,8,6.0,6.0,True,False,True
+fliD,18,17.317,0.003010137719680041,9.333333333333334,True,fliD,4.423621658457491,0.0215287323154525,Up,flagellar filament-capping protein FliD,9,5.0,5.0,True,False,True
+prgI,18,16.8,0.004194438839961218,9.333333333333334,True,prgI,7.594130656537715,0.0230046591505652,Up,EscF/YscF/HrpA family type III secretion system needle major subunit,10,8.0,8.0,True,False,True
+cheW,18,15.742,0.019367231557411685,10.0,False,cheW,5.457406912521045,0.0016346737558373,Up,chemotaxis protein CheW,11,24.0,24.0,False,False,False
+invE,18,16.019,0.004341800585709314,10.333333333333334,False,invE,3.5572615250209,0.0423451614841273,Up,SepL/TyeA/HrpJ family type III secretion system gatekeeper,12,10.0,10.0,False,False,False
+flgC,17,15.848,0.011113838838507764,12.333333333333334,False,flgC,6.210283987949973,0.0229963312968375,Up,flagellar basal body rod protein FlgC,13,3.0,3.0,False,False,False
+invG,18,17.045,0.0014477241882509622,13.0,False,invG,5.462606249040712,0.0098418561203562,Up,EscC/YscC/HrcC family type III secretion system outer membrane ring protein,14,7.0,7.0,False,False,False
+flgD,17,15.940999999999999,0.0034310245699362757,14.666666666666666,False,flgD,5.886073849532208,0.0098418561203562,Up,flagellar basal body rod modification protein,15,9.0,9.0,False,False,False
+sipC,17,15.971,0.00300484391640077,15.333333333333334,False,sipC,5.488399227518602,0.016627532585653,Up,pathogenicity island 1 effector protein SipC,16,26.0,25.0,False,False,False
+flgE,17,15.831,0.0034310245699362757,15.666666666666666,False,flgE,6.311176958622228,0.0098418561203562,Up,flagellar hook protein FlgE,17,18.0,18.0,False,False,False
+sipD,17,15.92,0.00300484391640077,16.0,False,sipD,4.657847052514064,0.0144807004904684,Up,cell invasion protein SipD,18,20.0,20.0,False,False,False
+flgL,17,16.209,0.0017216195907449109,17.0,False,flgL,5.224830933883761,0.0098418561203562,Up,flagellar hook-filament junction protein FlgL,19,4.0,4.0,False,True,True
+fliZ,16,13.911,0.008573736703184112,18.333333333333332,False,fliZ,6.193952698230687,0.0114600281876428,Up,flagellar regulatory protein FliZ,20,15.0,15.0,False,False,False
+sipB,16,15.415,0.0022830177384799656,20.666666666666668,False,sipB,6.174242681277034,0.0157018439598075,Up,pathogenicity island 1 effector protein SipB,21,22.0,22.0,False,False,False
+hilD,15,12.976,0.009490772456500379,20.666666666666668,False,hilD,2.81628522391158,0.0305277546996549,Up,AraC family transcriptional regulator,22,61.0,58.0,False,False,False
+fliL,16,14.873,0.0027730454778950014,21.0,False,fliL,4.834449910869971,0.016627532585653,Up,flagellar basal body-associated protein FliL,23,14.0,14.0,False,False,False
+flgG,15,14.107,0.0025677724632342945,24.0,False,flgG,6.046508054650016,0.0018505975559255,Up,flagellar basal-body rod protein FlgG,24,21.0,21.0,False,True,True
+flgM,16,15.214,0.0005458435563629204,25.333333333333332,False,flgM,3.519060308204339,0.0140587553808302,Up,anti-sigma-28 factor FlgM,25,27.0,27.0,False,False,False
+sicA,16,15.323,0.0004489180357716458,26.0,False,sicA,5.9111050186966825,0.0098418561203562,Up,CesD/SycD/LcrH family type III secretion system chaperone,26,11.0,11.0,False,True,True
+fliK,14,13.376,0.0019128528157862426,26.666666666666668,False,fliK,3.689119658936267,0.0157018439598075,Up,flagellar hook-length control protein FliK,27,35.0,34.0,False,False,False
+sopB,14,13.088,0.0017787778333575313,27.333333333333332,False,sopB,5.253308739094576,0.0071742795298086,Up,inositol phosphatase,28,30.0,30.0,False,False,False
+sopE2,14,12.728,0.001749664077494102,28.333333333333332,False,sopE2,3.5536676905563107,0.0419405338250882,Up,type III secretion protein SopE2,29,36.0,35.0,False,False,False
+flgN,15,14.187,0.0003883970540416599,29.333333333333332,False,flgN,2.400274961606058,0.0412020939436378,Up,flagellar biosynthesis protein FlgN,30,31.0,31.0,False,False,False
+invI,15,14.177,0.0004278986035200952,29.333333333333332,False,invI,7.461577965762909,0.0444348484788607,Up,type III secretion system protein SpaM,31,17.0,17.0,False,False,False
+hilA,11,9.26,0.0013162942303002031,32.0,False,hilA,4.312371431738909,0.0419405338250882,Up,transcriptional regulator,32,25.0,26.0,False,False,False
+cheM,7,6.072,0.0006256944521131512,35.0,False,cheM,2.585312003217396,0.0387613891272209,Up,methyl-accepting chemotaxis protein II,33,28.0,28.0,False,False,False
+cysK,5,4.803,0.0013365410318096765,35.666666666666664,False,cysK,1.566218244896489,0.0419405338250882,Up,cysteine synthase A,34,32.0,40.0,False,False,False
+fepA,5,4.521,0.0013365410318096765,36.0,False,fepA,-3.852514228708068,0.0018505975559255,Down,outer membrane receptor protein,35,42.0,41.0,False,False,False
+flgI,12,11.622,0.0,36.666666666666664,False,flgI,3.8645627916497047,0.0107592371513499,Up,flagellar biosynthesis protein FlgA,36,29.0,29.0,False,False,False
+orgA,10,8.382,0.0,38.0,False,orgA,4.5152826155375925,0.0419405338250882,Up,invasion protein OrgB,37,60.0,57.0,False,False,False
+fliT,9,8.249,0.0,38.666666666666664,False,fliT,3.1684207294652027,0.0176274512947626,Up,flagellar biosynthesis protein FliT,38,38.0,36.0,False,False,False
+cysC,5,4.935,0.00013365410318096765,39.0,False,cysC,3.628749523869728,0.0140587553808302,Up,adenylyl-sulfate kinase,39,34.0,33.0,False,False,False
+cysP,5,4.925,0.00013365410318096765,39.333333333333336,False,cysP,3.3487665464936964,0.0215287323154525,Up,thiosulfate transporter subunit,40,33.0,32.0,False,False,False
+cysI,5,4.916,0.00013365410318096765,39.666666666666664,False,cysI,3.649507239899312,0.0215287323154525,Up,sulfite reductase subunit beta,41,40.0,38.0,False,False,False
+cysH,5,4.871,0.00013365410318096765,40.0,False,cysH,5.363753028885417,0.0239194825145703,Up,phosphoadenosine phosphosulfate reductase,42,41.0,39.0,False,False,False
+STM4261,6,4.318,0.0,42.0,False,STM4261,2.878778840198883,0.0215287323154525,Up,hypothetical protein,43,39.0,37.0,False,False,False
+fadB,3,2.896,0.0008019246190858059,42.666666666666664,False,fadB,-2.662233110542184,0.0419405338250882,Down,3-hydroxyacyl-coA dehydrogenase,44,37.0,44.0,False,False,False
+entE,4,3.509,0.0002673082063619353,43.0,False,entE,-2.2761892177816216,0.0403198277542599,Down,"2,3-dihydroxybenzoate-AMP ligase",45,55.0,52.0,False,False,False
+fabB,3,2.547,0.0008019246190858059,43.666666666666664,False,fabB,2.8634345884096577,0.0031714819928745,Up,beta-ketoacyl-[acyl-carrier-protein] synthase I,46,49.0,78.0,False,False,False
+sbp,4,3.8040000000000003,0.0,44.666666666666664,False,sbp,4.94040755665733,0.0240449124439542,Up,sulfate transporter subunit,47,54.0,49.0,False,False,False
+fliB,4,3.501,0.0,45.333333333333336,False,fliB,4.602828530008626,0.011368464566668,Up,lysine-N-methylase,48,48.0,46.0,False,True,True
+STM4315,4,3.017,0.0,45.666666666666664,False,STM4315,4.1743399540205575,0.0274104445062462,Up,AraC family transcriptional regulator,49,43.0,42.0,False,False,False
+STM3216,3,2.8970000000000002,0.0,47.333333333333336,False,STM3216,4.619478070140624,0.0098418561203562,Up,putative methyl-accepting chemotaxis protein,50,47.0,45.0,False,False,False
+tsr,3,2.777,0.0,48.0,False,tsr,2.970723051154286,0.0157018439598075,Up,methyl-accepting chemotaxis protein II,51,50.0,50.0,False,False,False
+cirA,3,2.6719999999999997,0.0,48.333333333333336,False,cirA,-2.478346929896592,0.0074776976669095,Down,catecholate siderophore receptor CirA,52,44.0,43.0,False,False,False
+fhuE,3,2.418,0.0,49.0,False,fhuE,-4.356793128900888,0.0157018439598075,Down,ferric-rhodotorulic acid/ferric-coprogen receptor FhuE,53,59.0,56.0,False,False,False
+pgm,2,1.8490000000000002,0.0005346164127238706,49.333333333333336,False,pgm,1.9774032288829853,0.039681320081625,Up,"phosphoglucomutase, alpha-D-glucose phosphate-specific",54,45.0,,False,False,False
+rbsK-3,2,1.83,0.0005346164127238706,50.0,False,STM3793,5.238506705707879,0.0345781892033462,Up,ribokinase,55,46.0,68.0,False,False,False
+trg,2,1.984,0.0,51.333333333333336,False,trg,3.2747672764629505,0.0215287323154525,Up,methyl-accepting chemotaxis protein,56,51.0,51.0,False,False,False
+sdhB,2,1.982,0.0,51.666666666666664,False,sdhB,2.016773956490668,0.0244023413626516,Up,"succinate dehydrogenase, Fe-S protein",57,53.0,48.0,False,False,False
+sdhC,2,1.875,0.0,52.0,False,sdhC,2.470599436601251,0.0445865186803658,Up,"succinate dehydrogenase, cytochrome b556",58,56.0,53.0,False,False,False
+STM4308,2,1.5430000000000001,0.0002673082063619353,52.333333333333336,False,STM4308,3.032013529654749,0.0274104445062462,Up,putative component of anaerobic dehydrogenases,59,52.0,47.0,False,False,False
+fepC,2,1.874,0.0,52.333333333333336,False,fepC,-4.39511133072599,0.0229963312968375,Down,iron-enterobactin transporter ATP-binding protein,60,,,False,False,False
+sucB,2,1.859,0.0,52.666666666666664,False,sucB,2.054910956237362,0.0459171545530897,Up,dihydrolipoamide succinyltransferase,61,58.0,55.0,False,False,False
+yafH,2,1.841,0.0,53.333333333333336,False,fadE,-2.583567549350687,0.0239194825145703,Down,,62,64.0,63.0,False,False,False
+STM3138,2,1.799,0.0,54.0,False,STM3138,4.210203848073078,0.0098418561203562,Up,chemotaxis protein,63,57.0,54.0,False,False,False
+glpA,1,0.999,0.0,58.0,False,glpA,1.9774986774566836,0.0161018213229168,Up,sn-glycerol-3-phosphate dehydrogenase subunit A,64,62.0,59.0,False,False,False
+glpB,1,0.999,0.0,58.0,False,glpB,1.9745691555630644,0.0305277546996549,Up,anaerobic glycerol-3-phosphate dehydrogenase subunit B,65,63.0,60.0,False,False,False
+yejE,1,0.999,0.0,58.0,False,yejE,-3.375943887621446,0.0215287323154525,Down,microcin ABC transporter permease,66,67.0,61.0,False,False,False
+yejF,1,0.999,0.0,58.0,False,yejF,-1.8967792402942223,0.0451957328497842,Down,microcin C ABC transporter ATP-binding protein YejF,67,68.0,62.0,False,False,False
+STM0360,1,0.995,0.0,59.333333333333336,False,STM0360,-2.3995183521858703,0.0107592371513499,Down,cytochrome ubiquinol oxidase subunit I,68,65.0,64.0,False,False,False
+cydB,1,0.995,0.0,59.333333333333336,False,cydB,1.6653877162682464,0.0240449124439542,Up,cytochrome d ubiquinol oxidase subunit II,69,66.0,65.0,False,False,False
+htpG,1,0.985,0.0,60.0,False,htpG,1.7344917583005914,0.0215287323154525,Up,molecular chaperone HtpG,70,79.0,73.0,False,False,False
+mopB,1,0.985,0.0,60.0,False,groES,1.4434148467174168,0.0319924147595527,Up,,71,80.0,74.0,False,False,False
+argG,1,0.983,0.0,60.666666666666664,False,argG,2.183461443874001,0.0445865186803658,Up,argininosuccinate synthetase,72,69.0,69.0,False,False,False
+carB,1,0.983,0.0,60.666666666666664,False,carB,2.706877530149808,0.0215287323154525,Up,carbamoyl phosphate synthase large subunit,73,70.0,70.0,False,False,False
+fhuA,1,0.974,0.0,61.333333333333336,False,fhuA,-2.429215940906099,0.0297765980904089,Down,ferrichrome porin FhuA,74,,,False,False,False
+aidB,1,0.971,0.0,61.666666666666664,False,aidB,-1.93422258589149,0.0459171545530897,Down,isovaleryl-CoA dehydrogenase,75,71.0,66.0,False,False,False
+aldB,1,0.947,0.0,62.0,False,aldB,-2.722551447524104,0.0423917819863925,Down,aldehyde dehydrogenase,76,74.0,,False,False,False
+yjgB,1,0.947,0.0,62.0,False,yjgB,-2.975459759871325,0.0215287323154525,Down,putative alcohol dehydrogenase,77,75.0,,False,False,False
+yeaD,1,0.925,0.0,62.666666666666664,False,yeaD,2.5853496189965006,0.0305277546996549,Up,D-hexose-6-phosphate mutarotase,78,72.0,,False,False,False
+hisI,1,0.922,0.0,63.0,False,hisI,2.7561697806376944,0.0268681825899596,Up,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase,79,76.0,71.0,False,False,False
+serB,1,0.922,0.0,63.0,False,serB,3.194470551640357,0.011368464566668,Up,phosphoserine phosphatase SerB,80,77.0,72.0,False,False,False
+STM3792,1,0.906,0.0,63.666666666666664,False,STM3792,3.2574262765550355,0.0071742795298086,Up,L-fucose:H+ symporter permease,81,73.0,67.0,False,False,False
+metH,1,0.876,0.0,64.0,False,metH,1.8424535431958773,0.0071742795298086,Up,B12-dependent homocysteine-N5-methyltetrahydrofolate transmethylase,82,78.0,,False,False,False
+STM3362,1,0.858,0.0,64.33333333333333,False,STM3362,-2.7693528870264013,0.0102932587426676,Down,hypothetical protein,83,,,False,False,False
+yjfN,1,0.858,0.0,64.33333333333333,False,yjfN,-1.682586653220163,0.0229963312968375,Down,putative inner membrane protein,84,,,False,False,False
+accA,1,0.779,0.0,65.0,False,accA,1.56369140925462,0.0102932587426676,Up,acetyl-CoA carboxylase carboxyltransferase subunit alpha,85,83.0,77.0,False,False,False
+dmsA,1,0.777,0.0,65.33333333333333,False,dmsA,3.079454509897509,0.0157018439598075,Up,dimethylsulfoxide reductase subunit A,86,81.0,75.0,False,False,False
+STM1498,1,0.766,0.0,65.66666666666667,False,STM1498,2.78731606083048,0.0305277546996549,Up,dimethyl sulfoxide reductase subunit A,87,82.0,76.0,False,False,False
+ttrC,1,0.726,0.0,66.0,False,ttrC,3.435175765994245,0.0074776976669095,Up,tetrathionate reductase subunit C,88,,,False,False,False
